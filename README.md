@@ -1,6 +1,6 @@
 👋 Hello, I'm Akshay Malkar
 
-🎓 I'm currently pursuing a **B.Tech in Computer Science & Engineering** at Government College of Engineering, Nagpur. With a strong foundation and interest in **backend engineering**, I focus on leveraging Java, Spring Boot, and microservices to build practical and scalable applications. I enjoy solving complex problems through code and continuously improving my skills in software development.
+🎓 I'm currently pursuing a **B.Tech in Computer Science & Engineering** at Government College of Engineering, Nagpur, specializing in **Computer Science**. With a strong foundation and interest in backend engineering and a passion for solving complex problems through code, I focus on leveraging Java, Spring Boot, and microservices to build practical and scalable applications.
 
 ### 🔍 Areas of Interest::
 
@@ -43,21 +43,18 @@
 
 - **Email:** [akshaymalkar01@gmail.com](mailto:akshaymalkar01@gmail.com)
 
-<a href="https://linkedin.com/in/akshay-malkar-9342172a2">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Akshumalkar">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/AkshayM_18">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://akshay-malkar-liart.vercel.app">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" />
-</a>
+  <a href="https://linkedin.com/in/akshay-malkar-9342172a2">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Akshumalkar">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AkshayM_18">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://akshay-malkar-liart.vercel.app">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" />
+  </a>
 
 [Akshay's github stats](https://github.com/anuraghazra/github-readme-stats)
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshumalkar&count_private=true&show_icons=true&theme=radical&hide_rank=false)
