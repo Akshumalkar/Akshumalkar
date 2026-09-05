@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🎓 Computer Science Engineering Student | ☕ Java Developer | 🚀 Backend Enthusiast
+  🎓 Computer Engineering Student | 💻 Full-Stack Developer | 🚀 Backend & AI Enthusiast
 </p>
 
 <p align="center">
@@ -32,130 +32,189 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm currently pursuing a **B.Tech in Computer Science & Engineering** at 
-**Government College of Engineering, Nagpur**, specializing in **Computer Science**.
+🎓 I'm currently pursuing a **B.Tech in Computer Engineering** at
+**Government College of Engineering, Nagpur**.
 
-💻 I focus on **Java development, Spring Boot, backend engineering, and microservices**. 
-I enjoy building practical, scalable, and secure applications that solve real-world problems.
+💻 I enjoy building **full-stack applications, backend systems, AI-powered solutions, and infrastructure tools**.
 
-🚀 I am passionate about learning new technologies, improving my problem-solving skills, 
-and developing reliable backend systems.
+🚀 My primary focus is on **Java, Spring Boot, Python, FastAPI, React, databases, Docker, Linux, and monitoring systems**.
 
-📍 Based in **Jalgaon, Maharashtra, India**.
+🧠 I enjoy solving **Data Structures & Algorithms** problems and learning how to design scalable and reliable applications.
+
+📍 Based in **Maharashtra, India**.
 
 ---
 
 ### 🔍 Areas of Interest:
 
-- **Java & Spring Boot**
-- **Backend Development & RESTful APIs**
-- **Microservices Architecture**
-- **Databases & Backend Systems**
-- **Testing, Automation & Monitoring**
-- **Data Structures & Algorithms**
-- **DevOps & Cloud Technologies**
+* **Backend & Full-Stack Development**
+* **Java & Spring Boot**
+* **Python & FastAPI**
+* **AI / Machine Learning Applications**
+* **REST APIs & Secure Authentication**
+* **Microservices & System Design**
+* **DevOps, Linux & Cloud**
+* **Monitoring & Observability**
+* **Data Structures & Algorithms**
 
 ---
 
 ### 🛠️ Technical Skills:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,sql" />
-</p>
+**Languages:**
+Java, Python, JavaScript, TypeScript, SQL
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,html,css,bootstrap" />
-</p>
+**Frontend:**
+React.js, Tailwind CSS, Bootstrap, HTML, CSS, Vite, React Router
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
+**Backend:**
+Spring Boot, Spring Security, FastAPI, Node.js, Express.js, REST APIs, JWT, Hibernate, JPA, SQLAlchemy
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws,nginx" />
-</p>
+**Databases:**
+MySQL, PostgreSQL, MongoDB, Redis
 
-**Frameworks & Tools:**  
-Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, REST APIs, JWT, 
-Microservices, JUnit, Mockito, Maven, Postman, Swagger, Prometheus, Grafana, ELK Stack
+**DevOps & Cloud:**
+Docker, Docker Compose, Linux, AWS, Nginx, Git, GitHub
+
+**Monitoring & Tools:**
+Prometheus, Grafana, Node Exporter, Postman, Swagger/OpenAPI, pgAdmin, DBeaver
+
+**AI / ML:**
+AI API Integration, NLP, Machine Learning, Computer Vision, Face Recognition
 
 ---
 
 ### 🚀 Projects:
 
-#### Enterprise Employee Management System – A secure backend application for managing employee operations
+#### Linux Fleet Management System – Centralized Linux server management and monitoring platform
 
 *Description:*
 
-1. Developed a secure employee management platform supporting employee records, departments, attendance, and payroll.
-2. Implemented JWT authentication and role-based access control using Spring Security.
-3. Designed RESTful APIs and optimized MySQL queries using Hibernate/JPA.
-4. Added validation, exception handling, and secure API access.
-5. Focused on scalable backend architecture and maintainable code.
+1. Built a centralized platform for onboarding and managing Linux servers.
+2. Implemented remote SSH-based server interaction and command execution.
+3. Integrated Prometheus, Node Exporter, and Grafana for system monitoring.
+4. Added authentication, server management, audit logging, and monitoring workflows.
+5. Containerized the application using Docker and Docker Compose.
 
-*Key Skills:* Java, Spring Boot, Spring Security, Hibernate, JPA, MySQL, JWT, REST APIs
+*Key Skills:* React, TypeScript, FastAPI, PostgreSQL, Docker, Linux, SSH, Prometheus, Grafana
 
 ---
 
-#### E-Commerce Microservices Platform – A scalable backend application built using microservices architecture
+#### Veda-AI – AI-powered assessment and answer analysis platform
 
 *Description:*
 
-1. Designed an e-commerce backend using independently deployable microservices for product, user, order, and payment management.
-2. Implemented REST APIs and service-to-service communication.
-3. Added Redis caching to improve product retrieval performance.
+1. Built a web application for processing question papers and student answer sheets.
+2. Developed a React and TypeScript frontend with a FastAPI backend.
+3. Integrated AI-based processing for answer analysis and assessment.
+4. Implemented document upload and structured result generation APIs.
+5. Designed the system for AI-assisted evaluation and feedback.
+
+*Key Skills:* React, TypeScript, Python, FastAPI, AI Integration, REST APIs
+
+---
+
+#### ShopSphere – E-Commerce Microservices Platform
+
+*Description:*
+
+1. Designed an e-commerce platform using a microservices architecture.
+2. Developed backend services using Java, Spring Boot, and Spring Cloud.
+3. Implemented Redis caching for improved application performance.
 4. Used Docker for containerized application deployment.
-5. Focused on modular architecture, scalability, and fault isolation.
+5. Worked with product, order, user, and payment workflows.
 
-*Key Skills:* Java, Spring Boot, Spring Cloud, Microservices, REST APIs, MySQL, Redis, Docker
+*Key Skills:* Java, Spring Boot, Spring Cloud, Microservices, React, MySQL, Redis, Docker, AWS
 
 ---
 
-#### AI-Powered Smart Job Portal – An AI-powered platform for candidate-job matching
+#### Employee Management System – Full-stack employee management application
 
 *Description:*
 
-1. Built a job portal enabling job posting, application tracking, and candidate-job matching.
-2. Integrated AI APIs to analyze resumes and recommend suitable roles.
-3. Developed matching logic based on skills, experience, and job requirements.
-4. Implemented secure authentication and role-based access.
-5. Designed a user-friendly platform for candidates and recruiters.
+1. Developed an employee and department management application.
+2. Implemented authentication and authorization using Spring Security and JWT.
+3. Created REST APIs for employee and department operations.
+4. Used Hibernate/JPA with MySQL for database management.
+5. Added validation and structured exception handling.
 
-*Key Skills:* Java, Spring Boot, REST APIs, JWT Authentication, AI Integration, React, MySQL
+*Key Skills:* Java, Spring Boot, Spring Security, Hibernate, JPA, JWT, React, MySQL
+
+---
+
+#### Back-Office Document & Routing Agent – AI/ML document classification system
+
+*Description:*
+
+1. Built a Python-based document processing and classification application.
+2. Implemented document categorization and automated routing workflows.
+3. Used machine learning and NLP techniques for document analysis.
+4. Created an interactive workflow for processing documents.
+5. Focused on automating repetitive document-handling tasks.
+
+*Key Skills:* Python, Machine Learning, NLP, Document Processing, Streamlit
+
+---
+
+#### Face Recognition Attendance System – Automated attendance using computer vision
+
+*Description:*
+
+1. Built an attendance management system using face recognition.
+2. Implemented face detection and recognition using Python and OpenCV.
+3. Automated attendance marking using recognized faces.
+4. Added student record and attendance management functionality.
+5. Focused on applying computer vision to real-world attendance workflows.
+
+*Key Skills:* Python, OpenCV, Face Recognition, Computer Vision, Machine Learning
+
+---
+
+#### Portfolio Website – Personal developer portfolio
+
+*Description:*
+
+1. Built a responsive personal portfolio to showcase projects and skills.
+2. Designed a modern developer-focused user interface.
+3. Implemented responsive layouts and interactive sections.
+4. Added project, skills, achievements, and contact sections.
+5. Focused on clean UI and modern frontend development practices.
+
+*Key Skills:* React, JavaScript, Tailwind CSS, Framer Motion, Vite
 
 ---
 
 ### 🏆 Achievements:
 
-- 🎯 College Head of **e-Yantra Robotics Competition**, IIT Bombay
-- 🏅 **Sports Coordinator** at Government College of Engineering, Nagpur
-- 🔐 Completed **Cisco Cybersecurity** certification
-- 📜 Received **NEC Certificate** from IIT Bombay
-- 💻 Solved **170+ Data Structures and Algorithms problems**
-- 🚀 Built **10+ projects**
-- 🏆 Participated in **20+ hackathons**
+* 🎯 College Head of **e-Yantra Robotics Activities**, IIT Bombay
+* 🏅 **Sports Coordinator** at Government College of Engineering, Nagpur
+* 📜 Received **NEC Certificate** from IIT Bombay
+* 🔐 Completed **Cybersecurity Certification**
+* 💻 Solved **300+ Data Structures & Algorithms problems**
+* 🚀 Built **15+ projects**
+* 🏆 Participated in **5+ hackathons**
 
 ---
 
 ### 📚 Currently Learning:
 
-- Advanced Spring Boot
-- Spring Security and JWT
-- Microservices Architecture
-- System Design
-- Docker and Kubernetes
-- Cloud Deployment
-- Data Structures and Algorithms
+* Advanced Spring Boot
+* Microservices & System Design
+* Data Structures & Algorithms
+* Docker & Cloud Technologies
+* Linux & Server Management
+* AI-powered Applications
+* Monitoring & Observability
 
 ---
 
 ### 🔗 Let's Connect:
 
-- **Email:** [akshaymalkar01@gmail.com](mailto:akshaymalkar01@gmail.com)
-- **Portfolio:** [akshay-malkar-liart.vercel.app](https://akshay-malkar-liart.vercel.app/)
-- **LinkedIn:** [Akshay Malkar](https://www.linkedin.com/in/akshay-malkar-9342172a/)
-- **GitHub:** [Akshumalkar](https://github.com/Akshumalkar)
-- **LeetCode:** [AkshayM_18](https://leetcode.com/u/AkshayM_18/)
+* **Email:** [akshaymalkar01@gmail.com](mailto:akshaymalkar01@gmail.com)
+* **Portfolio:** [akshay-malkar-liart.vercel.app](https://akshay-malkar-liart.vercel.app/)
+* **LinkedIn:** [Akshay Malkar](https://www.linkedin.com/in/akshay-malkar-9342172a/)
+* **GitHub:** [Akshumalkar](https://github.com/Akshumalkar)
+* **LeetCode:** [AkshayM_18](https://leetcode.com/u/AkshayM_18/)
 
 <p align="left">
   <a href="mailto:akshaymalkar01@gmail.com">
