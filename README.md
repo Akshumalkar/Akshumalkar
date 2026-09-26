@@ -212,7 +212,7 @@ AI API Integration, NLP, Machine Learning, Computer Vision, Face Recognition
 
 * **Email:** [akshaymalkar01@gmail.com](mailto:akshaymalkar01@gmail.com)
 * **Portfolio:** [akshay-malkar-liart.vercel.app](https://akshay-malkar-liart.vercel.app/)
-* **LinkedIn:** [Akshay Malkar](https://www.linkedin.com/in/akshay-malkar-9342172a/)
+* **LinkedIn:** [Akshay Malkar](https://www.linkedin.com/in/akshaymalkar1/)
 * **GitHub:** [Akshumalkar](https://github.com/Akshumalkar)
 * **LeetCode:** [AkshayM_18](https://leetcode.com/u/AkshayM_18/)
 
