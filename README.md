@@ -220,7 +220,7 @@ AI API Integration, NLP, Machine Learning, Computer Vision, Face Recognition
   <a href="mailto:akshaymalkar01@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/akshay-malkar-9342172a/" target="_blank">
+  <a href="https://www.linkedin.com/in/akshaymalkar1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Akshumalkar" target="_blank">
